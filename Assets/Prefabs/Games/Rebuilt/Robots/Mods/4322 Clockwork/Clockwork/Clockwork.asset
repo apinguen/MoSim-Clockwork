@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be1409438a6844eea96767966da7413b, type: 3}
+  m_Name: Clockwork
+  m_EditorClassIdentifier: 
+  teamNumber: 4322
+  teamName: Clockwork
+  robotImage: {fileID: 0}
+  mainRobot:
+    displayName: Clockwork
+    robotPrefab: {fileID: 6771250919961329634, guid: a11b17a6a670a974d9cdcb4fe59e0c46,
+      type: 3}
+    mainMenuPrefab: {fileID: 2031571049651207021, guid: f55a969fb5f7e394eb8754b23af4e4ec,
+      type: 3}
+    spawnSelectionPrefab: {fileID: 4859705363981568019, guid: 4d6d86560fdd38c45939fc89c47487de,
+      type: 3}
+    preloadGamePiece: {fileID: 0}
+    tutorialCards:
+    - {fileID: 6489787638124950933, guid: e3e7c31bf3b325c4e912da5bbb0b336f, type: 3}
+    - {fileID: 2914317858798514327, guid: 67d25b0745bb61343ac9dc70c1590442, type: 3}
+    - {fileID: 7936692756224425962, guid: 8fd3eb7de37046d4cb7f0b7bd1b096f9, type: 3}
+  alternateRobots: []
